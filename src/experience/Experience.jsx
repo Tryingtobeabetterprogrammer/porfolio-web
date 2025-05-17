@@ -3,7 +3,7 @@ import { OrbitControls, OrthographicCamera } from '@react-three/drei';
 import { Canvas } from '@react-three/fiber';
 import { SlidingPanel } from './SlidingPanel'; // Corrected import
 import Scene from './scene'; // Assuming Scene is another component that you have
-import './RightSlidePanel.css'; // Importing styles for the panel
+import './RightslidePanel.css'; // Importing styles for the panel
 
 const Experience = () => {
   const controlsRef = useRef();
